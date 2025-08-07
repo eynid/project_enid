@@ -5,7 +5,7 @@ export const chefSpecialities = [
         take_out_price: 18,
         description: "Tender chicken chunks fried to a crisp & sautéed w rich garlic sauce.",
         spice: true,
-        gluten: true
+        gluten: false
     },
     {
         name: "Vegetable Home Style",
@@ -90,7 +90,7 @@ export const chefSpecialities = [
         name: "General Tso's Chicken",
         dine_In_price: 17,
         take_out_price: 18,
-        description: "Fillet mignon and shrimp sautéed w. broccoli, pepper & mushroom in brown sauce.",
+        description: "Delicate breaded chicken lightly fried to perfection.",
         spice: null,
         gluten: false
     },
