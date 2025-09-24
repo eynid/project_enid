@@ -2,10 +2,10 @@ export const chefSpecialities = [
     {
         name: "House Special Chicken",
         dine_In_price: 17,
-        take_out_price: 17,
+        take_out_price: 18,
         description: "Tender chicken chunks fried to a crisp & sautéed w rich garlic sauce.",
         spice: true,
-        gluten: true
+        gluten: false
     },
     {
         name: "Vegetable Home Style",
@@ -18,7 +18,7 @@ export const chefSpecialities = [
     {
         name: "Champagne Chicken",
         dine_In_price: 17,
-        take_out_price: 17,
+        take_out_price: 18,
         description: "Sliced white meat chicken, snow peas, water chestnuts & mushrooms sautéed with Chinese rice wine sauce.",
         spice: null,
         gluten: false
@@ -34,7 +34,7 @@ export const chefSpecialities = [
     {
         name: "Mongolian Trio",
         dine_In_price: 19.50,
-        take_out_price: 18,
+        take_out_price: 19,
         description: "Beef, shrimp, chicken, scallions and onions sautéed w. light brown sauce.",
         spice: null,
         gluten: false
@@ -42,7 +42,7 @@ export const chefSpecialities = [
     {
         name: "Coral Shrimp",
         dine_In_price: 20.5,
-        take_out_price: 18,
+        take_out_price: 19,
         description: "Lightly battered shrimp stir-fried with red pepper, snow peas, celery & shredded ginger in Chef's special ginger sauce.",
         spice: null,
         gluten: false
@@ -66,7 +66,7 @@ export const chefSpecialities = [
     {
         name: "Happy Family",
         dine_In_price: 23.50,
-        take_out_price: 23,
+        take_out_price: 25,
         description: "Fillet mignon, shrimp and chicken sautéed with assorted vegetables in a white wine sauce.",
         spice: null,
         gluten: false
@@ -74,14 +74,14 @@ export const chefSpecialities = [
     {
         name: "House Special Steak Kew",
         dine_In_price: 23.50,
-        take_out_price: 23,
+        take_out_price: 25,
         description: "Fillet mignon sautéed with vegetables in gourmet brown sauce.",
         spice: null,
         gluten: false
     }, {
         name: "Perfect Match",
         dine_In_price: 18,
-        take_out_price: 18,
+        take_out_price: 19,
         description: "Chicken and shrimp sautéed with peanut flavored brown sauce.",
         spice: null,
         gluten: false
@@ -90,15 +90,15 @@ export const chefSpecialities = [
         name: "General Tso's Chicken",
         dine_In_price: 17,
         take_out_price: 17,
-        description: "Fillet mignon and shrimp sautéed w. broccoli, pepper & mushroom in brown sauce.",
+        description: "Delicate breaded chicken lightly fried to perfection.",
         spice: null,
         gluten: false
     },
     {
-        name: "Shrimp and Steak",
+        name: "Shrimp and Steak Kew",
         dine_In_price: 23,
-        take_out_price: 23,
-        description: "Chicken and shrimp sautéed with snow peas & zucchini in Szechuan chili sauce.",
+        take_out_price: 25,
+        description: "Shrimp and Steak sautéed with snow peas & zucchini in Szechuan chili sauce.",
         spice: null,
         gluten: false
     },
@@ -113,7 +113,7 @@ export const chefSpecialities = [
     {
         name: "Hunan Fish Fillet",
         dine_In_price: 18,
-        take_out_price: 18,
+        take_out_price: 19,
         description: "Lightly fried fillet of flounder, showered with rich Hunan chili sauce.",
         spice: null,
         gluten: false
@@ -121,7 +121,7 @@ export const chefSpecialities = [
     {
         name: "Prawn and Phoenix",
         dine_In_price: 18,
-        take_out_price: 18,
+        take_out_price: 19,
         description: "Chicken & shrimp sautéed w. snow peas & zucchini in Szechuan chili sauce.",
         spice: null,
         gluten: false
@@ -129,7 +129,7 @@ export const chefSpecialities = [
     {
         name: "Chicken Country Style",
         dine_In_price: 17,
-        take_out_price: 17,
+        take_out_price: 18,
         description: "Chicken strips sautéed w. onion, pepper & baby corn in Chinese satay sauce.",
         spice: null,
         gluten: false
@@ -137,15 +137,15 @@ export const chefSpecialities = [
     {
         name: "Empress Chicken",
         dine_In_price: 17,
-        take_out_price: 17,
+        take_out_price: 18,
         description: "Chicken w. broccoli, water chestnuts and mushroom in Hunan chili sauce.",
         spice: null,
         gluten: false
     },
     {
-        name: "Tofu casserole with Seafood",
+        name: "Tofu Casserole with Seafood",
         dine_In_price: 19,
-        take_out_price: 19,
+        take_out_price: 20,
         description: "Fried tofu, shrimp, scallops, squid, black mushrooms, water chestnuts, cabbage and baby bok choy in a light brown sauce",
         spice: null,
         gluten: false

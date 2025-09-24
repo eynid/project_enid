@@ -2,21 +2,21 @@ export const beefAndLamb = [
     {
         name: "Crispy Orange Beef",
         dine_In_price: 19.50,
-        take_out_price: 18,
+        take_out_price: 20,
         spice: true,
         gluten: false
     },
     {
         name: "Sesame Beef Steak",
         dine_In_price: 19.50,
-        take_out_price: 18,
+        take_out_price: 20,
         spice: null,
         gluten: false
     },
     {
         name: "Shredded Sesame Beef",
         dine_In_price: 19.50,
-        take_out_price: 18,
+        take_out_price: 20,
         spice: null,
         gluten: false
     },
