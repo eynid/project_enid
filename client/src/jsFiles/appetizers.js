@@ -1,28 +1,28 @@
 export const appetizers = [
     {
         name: "Egg Roll (1)",
-        dine_in_price: 3,
+        dine_in_price: 3.25,
         take_out_price: 3,
         spice: false,
         gluten: true
     },
     {
         name: "Spring Roll (1)",
-        dine_In_price: 2.5,
+        dine_In_price: 3,
         take_out_price: 2.5,
         spice: false,
         gluten: false
     },
     {
         name: "Barbecued Spare Ribs (5 pcs)",
-        dine_In_price: 12,
+        dine_In_price: 14,
         take_out_price: 12,
         spice: false,
         gluten: false
     },
     {
         name: "Boneless Ribs",
-        dine_In_price: 11,
+        dine_In_price: 12,
         take_out_price: 11,
         spice: false,
         gluten: false
@@ -57,14 +57,14 @@ export const appetizers = [
     },
     {
         name: "Chicken Skewers (4 pcs)",
-        dine_In_price: 10,
+        dine_In_price: 12,
         take_out_price: 10,
         spice: false,
         gluten: true
     },
     {
         name: "Beef Skewers (4 pcs)",
-        dine_In_price: 11,
+        dine_In_price: 13,
         take_out_price: 11,
         spice: false,
         gluten: false
@@ -106,7 +106,7 @@ export const appetizers = [
     },
     {
         name: "Crab Rangoon ",
-        dine_In_price: 10,
+        dine_In_price: 11,
         take_out_price: 10,
         spice: false,
         gluten: false
