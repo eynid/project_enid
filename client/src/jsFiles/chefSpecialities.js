@@ -1,6 +1,6 @@
 export const chefSpecialities = [
     {
-        name: "House Special Chicken",
+        namse: "House Special Chicken",
         dine_In_price: 17,
         take_out_price: 18,
         description: "Tender chicken chunks fried to a crisp & sautéed w rich garlic sauce.",
@@ -26,7 +26,7 @@ export const chefSpecialities = [
     {
         name: "Shrimp & Chicken w. Basil",
         dine_In_price: 19.50,
-        take_out_price: 19,
+        take_out_price: 18,
         description: "Large shrimp, white meat chicken & fresh garlic sautéed with basil sauce.",
         spice: null,
         gluten: false
@@ -50,7 +50,7 @@ export const chefSpecialities = [
     {
         name: "Golden Sesame Chicken",
         dine_In_price: 19.50,
-        take_out_price: 18,
+        take_out_price: 17,
         description: "Triple delight of shrimp, chicken and beef sautéed with broccoli, baby corn and mushrooms in a rich brown sauce.",
         spice: null,
         gluten: false
@@ -58,7 +58,7 @@ export const chefSpecialities = [
     {
         name: "Triple Delight",
         dine_In_price: 19.50,
-        take_out_price: 19,
+        take_out_price: 18,
         description: "Shrimp, chicken and beef sautéed with broccoli, baby corn and mushrooms in a rich brown sauce.",
         spice: null,
         gluten: false
@@ -89,11 +89,7 @@ export const chefSpecialities = [
     {
         name: "General Tso's Chicken",
         dine_In_price: 17,
-<<<<<<< HEAD
         take_out_price: 17,
-=======
-        take_out_price: 18,
->>>>>>> 84fa6898ceea2a7216389c25ec0f0845d989693a
         description: "Delicate breaded chicken lightly fried to perfection.",
         spice: null,
         gluten: false
@@ -102,11 +98,7 @@ export const chefSpecialities = [
         name: "Shrimp and Steak Kew",
         dine_In_price: 23,
         take_out_price: 25,
-<<<<<<< HEAD
         description: "Shrimp and Steak sautéed with snow peas & zucchini in Szechuan chili sauce.",
-=======
-        description: "Shrimp and steak sautéed with snow peas & zucchini in Szechuan chili sauce.",
->>>>>>> 84fa6898ceea2a7216389c25ec0f0845d989693a
         spice: null,
         gluten: false
     },
