@@ -9,7 +9,7 @@ export const appetizers = [
     {
         name: "Spring Roll (1)",
         dine_In_price: 3,
-        take_out_price: 2.5,
+        take_out_price: 3,
         spice: false,
         gluten: false
     },
